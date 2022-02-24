@@ -1,0 +1,1 @@
+insert into `self_user_detail` values(2,'123457','liuchang','一个男士');

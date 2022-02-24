@@ -1,0 +1,16 @@
+com/example/biz/service/vo/UserVO.class
+com/example/biz/BizApplication.class
+com/example/biz/dao/example/SelfUserDetailExample$GeneratedCriteria.class
+com/example/biz/dao/domain/SelfUserDetail.class
+com/example/biz/controller/SelfUserController.class
+com/example/biz/dao/example/SelfUserDetailExample$Criteria.class
+com/example/biz/service/SelfUserService.class
+com/example/biz/utils/IdGenerator.class
+com/example/biz/service/UserService.class
+com/example/biz/utils/Student.class
+com/example/biz/dao/example/SelfUserDetailExample$Criterion.class
+com/example/biz/utils/FieldHelper.class
+com/example/biz/dao/example/SelfUserDetailExample.class
+com/example/biz/mock/UserDAO.class
+com/example/biz/dao/domain/UserDO.class
+com/example/biz/dao/mapper/SelfUserDetailMapper.class
