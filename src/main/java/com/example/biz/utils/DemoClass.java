@@ -24,4 +24,8 @@ public class DemoClass {
     public String getI(){
        throw new RuntimeException();
     }
+
+    public String getX(Object o){
+        return "hello";
+    }
 }
